@@ -818,15 +818,6 @@ az webapp deployment source config-zip --resource-group PetStoreRG --name petsto
 
 ---
 
-## 🤝 Contributing
-
-Contributions welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
 
 ### Code Style
 - Follow C# coding conventions
@@ -841,8 +832,7 @@ Contributions welcome! Please follow these steps:
 - **Documentation**: See `PET_STORE_DOCUMENTATION.md`
 - **API Docs**: Available at `/swagger` endpoint
 - **Issues**: GitHub Issues
-- **Email**: support@petstore.com
-- **Discord**: Join our community
+
 
 ---
 
@@ -871,7 +861,7 @@ MIT License - see [LICENSE](LICENSE) file
 
 ---
 
-**Made with 💚 for pets and their humans**
+**Made  for pets and their humans**
 
 ---
 
